@@ -8,16 +8,19 @@ Credits for the images in this exercise go to:
 
 
 
-- Happy Isles Photo by [Mick Haupt](https://unsplash.com/@rocinante_11?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash] (https://unsplash.com/photos/landscape-photography-of-waterfalls-2NQUZsSFkao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- Happy Isles Photo by [Mick Haupt](https://unsplash.com/@rocinante_11?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/landscape-photography-of-waterfalls-2NQUZsSFkao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
       
 
-- Happy Child Photo by [Leo Rivas](https://unsplash.com/@leorivas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash] (https://unsplash.com/photos/girl-playing-beside-body-of-water-during-daytime-R_BLOGXpsOg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- Happy Child Photo by [Leo Rivas](https://unsplash.com/@leorivas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on Unsplash
+<!-- (https://unsplash.com/photos/girl-playing-beside-body-of-water-during-daytime-R_BLOGXpsOg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) -->
 
       
-- Happy Corbin (Image of King Corbin, Baron Corbin) on [Wallpapers] (https://wallpapers.com/wallpapers/wrestler-king-baron-corbin-8u9w277zl42niav0.html)
+<!-- - Happy Corbin (Image of King Corbin, Baron Corbin) on [Wallpapers](https://wallpapers.com/wallpapers/wrestler-king-baron-corbin-8u9w277zl42niav0.html) -->
 
 
-- Happy fish, Haplochromini Photo by [Claudio Guglieri] (https://unsplash.com/@claudioguglieri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash] (https://unsplash.com/photos/underwater-photography-of-red-fish-K2RH1QZdLF4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)      
+- Happy fish, Haplochromini Photo by [Claudio Guglieri](https://unsplash.com/@claudioguglieri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on Unsplash
+<!-- (https://unsplash.com/photos/underwater-photography-of-red-fish-K2RH1QZdLF4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)       -->
 
 
-- Joyful kid Photo by [MI PHAM] (https://unsplash.com/@phammi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash] (https://unsplash.com/photos/a-young-boy-running-through-a-sprinkle-of-water-FtZL0r4DZYk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)    
+- Joyful kid Photo by [MI PHAM](https://unsplash.com/@phammi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on Unsplash
+<!-- (https://unsplash.com/photos/a-young-boy-running-through-a-sprinkle-of-water-FtZL0r4DZYk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)     -->
