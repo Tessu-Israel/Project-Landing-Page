@@ -8,12 +8,13 @@ Credits for the images in this exercise go to:
 
 
 
-  Photo by <a href="https://unsplash.com/@rocinante_11?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mick Haupt</a> on <a href="https://unsplash.com/photos/landscape-photography-of-waterfalls-2NQUZsSFkao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Happy Isles Photo by [Mick Haupt](https://unsplash.com/@rocinante_11?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash] (https://unsplash.com/photos/landscape-photography-of-waterfalls-2NQUZsSFkao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
       
 
+- Happy Child Photo by [Leo Rivas](https://unsplash.com/@leorivas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash] (https://unsplash.com/photos/girl-playing-beside-body-of-water-during-daytime-R_BLOGXpsOg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-      Photo by <a href="https://unsplash.com/@leorivas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Leo Rivas</a> on <a href="https://unsplash.com/photos/girl-playing-beside-body-of-water-during-daytime-R_BLOGXpsOg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
+- Happy Corbin (Image of King Corbin, Baron Corbin) on [Wallpapers] (https://wallpapers.com/wallpapers/wrestler-king-baron-corbin-8u9w277zl42niav0.html)
 
 
-      https://wallpapers.com/wallpapers/wrestler-king-baron-corbin-8u9w277zl42niav0.html
+- Happy fish, Haplochromini Photo by [Claudio Guglieri] (https://unsplash.com/@claudioguglieri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash] (https://unsplash.com/photos/underwater-photography-of-red-fish-K2RH1QZdLF4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)      
