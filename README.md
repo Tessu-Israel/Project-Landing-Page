@@ -18,3 +18,6 @@ Credits for the images in this exercise go to:
 
 
 - Happy fish, Haplochromini Photo by [Claudio Guglieri] (https://unsplash.com/@claudioguglieri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash] (https://unsplash.com/photos/underwater-photography-of-red-fish-K2RH1QZdLF4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)      
+
+
+- Joyful kid Photo by [MI PHAM] (https://unsplash.com/@phammi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash] (https://unsplash.com/photos/a-young-boy-running-through-a-sprinkle-of-water-FtZL0r4DZYk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)    

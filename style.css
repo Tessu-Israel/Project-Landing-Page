@@ -23,7 +23,6 @@ body {
 /* TOP CLASS */
 
 .top {
-    /* height: 20vh; */
     background: #1f2937;
     color: #e5e7eb;
     flex: 1;
@@ -56,7 +55,7 @@ body {
     padding-left: 10px;
 }
 
-li a {
+a {
     text-decoration: none;
     font-size: 18px;
     color: #e5e7eb;
@@ -71,9 +70,18 @@ li a {
 }
 
 .hero div {
+    height: 500px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+}
+
+.hero-message {
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+    margin: 0;
+    padding: 0;
 }
 
 .hero h1 {
@@ -96,11 +104,9 @@ li a {
     background-image: url("./img/hero.jpg");
     background-color: firebrick;
     background-size: cover;
-    height: 500px;
     width: auto;
     background-repeat: no-repeat;
     width: 1000px;
-    /* background-position: center; */
 }
 
 button {
@@ -113,8 +119,11 @@ button {
     color: #e5e7eb;
 }
 
-/* .top-button {
-} */
+button:hover {
+    cursor: pointer;
+    background-color: navy;
+}
+
 
 
 /* MAIN SECTIONS */
@@ -140,7 +149,6 @@ button {
     gap: 20px;
     justify-content: center;
     align-items: start;
-    /* height: 1000px; */
 }
 
 .container {
@@ -148,30 +156,59 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* height: auto;width: 100%; */
     gap: 10px;
     flex: 1;
+    min-width: 80px;
 }
 
 .container .box {
-    height: 5em;
-    width: 5em;
-    border: 2px solid blue;
-    border-radius: 5px;
+    height: 100%;
+    width: 100%;
+    border: 1px solid transparent;
+    background-image: linear-gradient(to right, yellow 0%, green 50%, blue 100%);
+    border-radius: 10px;
     /* background-color: yellow; */
 }
 
-.container p {
-    /* font-size: 5px; */
+.container .box img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.container p,
+.download {
     color: #1f2937;
     font-weight: 300;
+}
+
+.download {
+    display: inline;
+}
+
+.download a {
+    text-decoration: none;
+    color: green;
+    font-weight: 700;
+}
+
+.download a:hover {
+    color: crimson;
+}
+
+.download a:visited {
+    color: #3882f6;
+}
+
+.download nav {
+    color: blue;
+    cursor: pointer;
 }
 
 
 /* SECTION 2 */
 .quote-section {
     flex: 1;
-    /* height: 20vh; */
     padding: 60px 22%;
     display: flex;
     align-items: center;
@@ -212,29 +249,23 @@ button {
     align-items: center;
     margin: 5vh 10vh;
     padding: 5vh 10vh;
-    background-color: #3882f6;border-radius: 5px;
+    background-color: #3882f6;
+    border-radius: 5px;
 }
 
 .cta-card {
     justify-content: space-evenly;
-    /* margin: 10px; */
     padding: 0;
     gap: 10px;
     flex: 1;
 }
 
-/* h3{
-    margin: 0;padding: 0;
-} */
-/* .cta-card div{justify-content: center;background: #000;} */
 .bottom-button {
     align-items: center;
-    /* background: red; */
 }
 
 .cta-message {
     flex: 2;
-    /* background: #000; */
     height: 15vh;
     justify-content: center;
     line-height: 2em;
@@ -244,7 +275,9 @@ button {
     border: 2px solid;
 }
 
+
 /* FOOTER */
+
 .footer {
     display: flex;
     padding: 40px;
