@@ -8,4 +8,12 @@ Credits for the images in this exercise go to:
 
 
 
-  
+  Photo by <a href="https://unsplash.com/@rocinante_11?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mick Haupt</a> on <a href="https://unsplash.com/photos/landscape-photography-of-waterfalls-2NQUZsSFkao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
+
+      Photo by <a href="https://unsplash.com/@leorivas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Leo Rivas</a> on <a href="https://unsplash.com/photos/girl-playing-beside-body-of-water-during-daytime-R_BLOGXpsOg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
+
+      https://wallpapers.com/wallpapers/wrestler-king-baron-corbin-8u9w277zl42niav0.html
